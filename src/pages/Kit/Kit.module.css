@@ -86,6 +86,18 @@ button {
   margin: 3% 0;
 }
 
+.products > div{
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  text-align: left;
+}
+
+.products > div > div{
+  width: 100%;
+  margin: 5% 0;
+}
 
 
 #sort_by{

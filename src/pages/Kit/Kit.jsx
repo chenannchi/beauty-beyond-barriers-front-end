@@ -45,38 +45,47 @@ const Kit = ({ user }) => {
         <div className={styles.products}>
           <div>
             <Product />
+            <div>Yours with any $70 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $120 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $110 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $90 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $80 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $55 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $85 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $75 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
           <div>
             <Product />
+            <div>Yours with any $110 purchase.*</div>
             <button>ADD GIFT</button>
           </div>
         </div>
